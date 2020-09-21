@@ -1,6 +1,5 @@
 body{
     font-family: 'Poppins', sans-serif;
-  
     width: 595px;
     height: 842px;
 }
@@ -100,19 +99,19 @@ body{
 }
 .one-third-width .img{
     width: 113px;
-height: 224px;
+    height: 224px;
 }
 .measurement{
- display: inline-block;
- margin-right: 5px;
- margin-top: 0;
- margin-bottom: 0;
+     display: inline-block;
+     margin-right: 5px;
+     margin-top: 0;
+     margin-bottom: 0;
 }
 .bottom-part{
-margin-top: 150px;
-margin-bottom: 20px;
-margin-right: 20px;
-padding: 0;}
+    margin-top: 150px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding: 0;}
 .bottom-sentence{
     font-size: 12px;
     margin-bottom: 0px;
